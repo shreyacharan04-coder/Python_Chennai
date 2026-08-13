@@ -1,2 +1,1 @@
-# Python_Chennai
-Sample repository
+Sample repository 
